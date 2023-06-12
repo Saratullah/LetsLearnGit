@@ -61,7 +61,7 @@ public class Record {
 	// @return
 	@Override public String toString()
 	{
-
+		//OverRided method
 		// Returning the record
 		return "Records{"
 			+ "name=" + name + ", idNumber=" + idNumber
